@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import FormularioCadastro from './components/FormularioCadastro/FormularioCadastro';
 import { Container, Typography } from "@material-ui/core"
+import DadosPessoais from './components/DadosPessoais';
 
 function App() {
   return(
